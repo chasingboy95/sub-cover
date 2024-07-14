@@ -1,6 +1,7 @@
 <h2>It's an chrome extension for subtitle cover or you can use for covering any other things.</h2>
 
 **menu:**
+
 ![image](https://github.com/user-attachments/assets/8ba05617-b2c1-40f6-8c84-cc598a4b41d6)
 
 **before:**
